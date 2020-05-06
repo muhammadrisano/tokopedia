@@ -17,6 +17,7 @@ function App() {
           rel="noopener noreferrer"
         >
           Learn React
+          {/* saya sedang buat form register */}
         </a>
       </header>
     </div>
